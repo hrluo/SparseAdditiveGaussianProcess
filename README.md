@@ -1,10 +1,10 @@
 
 
 
-# DistancePreservingMatrixSketch
+# SparseAdditiveGaussianProcess
 
 **Content**
-This is the code repository for the research publication "A Distance-preserving Matrix Sketch" by Hengrui Luo, Giovanni Nattino and [Matthew T. Pratola](http://www.matthewpratola.com/). 
+This is the code repository for the research publication "Sparse Additive Gaussian Process" by Hengrui Luo, Giovanni Nattino and [Matthew T. Pratola](http://www.matthewpratola.com/). 
 The manuscript of this paper can be accessed at https://arxiv.org/abs/1908.08864. 
 
  - In [Python folder](https://github.com/hrluo/SparseAdditiveGaussianProcess/tree/master/Python), we provided a set of illustrative code that serves as a proof of concept, and also a set of robust code that can be executed for large datasets.
